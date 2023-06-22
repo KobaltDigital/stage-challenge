@@ -41,6 +41,7 @@ What is the total score?
 Requirements:
 - Make an estimate of the time you need to complete the challenge.
 - Make the challenge in Laravel. We will take a look at the total score, but also at the quality of your code.
+- Make use of the database, the routes, models, controllers and views. Maybe even a form that you can submit.
 - Upload your code to GitHub.
 - Send a link to hello@kobaltdigital.nl with the actual time it took and why it took longer or shorter than your estimated time.
 
